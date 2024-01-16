@@ -6,8 +6,7 @@ Last week, a school in Boston went into lockdown because of a report of a studen
 
 ### The Model
 
-The code below shows how I created the model using the the fast.ai library. I created a dataset of 272 images from DuckDuckGo search and cleaned them manually. Then I used the dataset to fine-tune several image classification models. Throughout, I use ideas and code from the [fast.ai course](https://course.fast.ai/) and feedback from ChatGPT.
-
+The code below shows how I created the model using the the fast.ai library. I created a dataset of 272 images from DuckDuckGo search and cleaned them manually. Then I used the dataset to fine-tune several image classification models. Throughout, I use ideas and code from the [fast.ai course](https://course.fast.ai/) and feedback from ChatGPT. The code can be dow
 
 <br>
 
